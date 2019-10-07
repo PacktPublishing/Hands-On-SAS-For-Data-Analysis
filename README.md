@@ -11,7 +11,7 @@ SAS is one of the leading enterprise tools in the world today when it comes to d
 
 
 This book covers the following exciting features:
-Explore different types of SAS modules and packages like SAS/STATS, SAS/Access and understand the value they bring 
+* Explore different types of SAS modules and packages like SAS/STATS, SAS/Access and understand the value they bring 
 
 * Manipulate, sort and transform data using SAS 4GL and other appropriate functions 
 
