@@ -23,7 +23,7 @@ Explore different types of SAS modules and packages like SAS/STATS, SAS/Access a
 
 * Understand end-to-end preparation and implementation of the robust report using SAS ODS (Output Delivery System)
 
-* If you feel this book is for you, get your [copy](https://www.amazon.com/dp/178883982X) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/178883982X) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
