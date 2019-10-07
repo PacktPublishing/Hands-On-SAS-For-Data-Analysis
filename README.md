@@ -1,6 +1,6 @@
 # Hands-On SAS For Data Analysis 
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-sas-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781788839822"><img src="" alt="Hands-On SAS For Data Analysis " height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-sas-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781788839822"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b09532_mockupcover.png" alt="Hands-On SAS For Data Analysis " height="256px" align="right"></a>
 
 This is the code repository for [Hands-On SAS For Data Analysis ](https://www.packtpub.com/big-data-and-business-intelligence/hands-sas-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781788839822), published by Packt.
 
@@ -19,7 +19,7 @@ Discover commonly used functions, their goals, parameters and what's important: 
 
 Define your own macro and understand how to share the data that come from PROC SQL and data step 
 
-Prepare sample geographic maps with annotations – entirely from the code. 
+Prepare sample geographic maps with annotations â€“ entirely from the code. 
 
 Understand end-to-end preparation and implementation of the robust report using SAS ODS (Output Delivery System)
 
