@@ -43,7 +43,7 @@ Porsche_Cayenne 2018
 **Following is what you need for this book:**
 Budding or experienced data professionals who want to get started with SAS will benefit from this book. Those looking to prepare for the SAS certification exam will also find this book to be a useful resource. Some understanding of basic data management concepts will help you get the most out of this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-1).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
