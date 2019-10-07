@@ -64,7 +64,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Other books by the author
-[](https://www.packtpub.com/big-data-and-business-intelligence/sas-finance?utm_source=github&utm_medium=repository&utm_campaign=)
+[SAS for Finance](https://www.packtpub.com/big-data-and-business-intelligence/sas-finance?utm_source=github&utm_medium=repository&utm_campaign=)
 
 
 ### Suggestions and Feedback
